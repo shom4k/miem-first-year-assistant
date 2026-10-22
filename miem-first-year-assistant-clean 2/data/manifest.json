@@ -1,0 +1,19 @@
+{
+  "collected_at": "2026-10-22T17:11:46.831231+00:00",
+  "catalogs": [
+    {
+      "url": "https://www.hse.ru/ba/isct/courses?course=1.1.1.4&page=1&year=2026",
+      "file": "data/raw/catalog-1.html",
+      "sha256": "ab4a0f9cd65a0114deaea15bdccab7f507110a817c0b305b1902ca59944b2df4"
+    },
+    {
+      "url": "https://www.hse.ru/ba/isct/courses/page2.html?course=1.1.1.4&year=2026",
+      "file": "data/raw/catalog-2.html",
+      "sha256": "710ba9dd29c421aab093b46e1facb7fdbebe9a97d40a0381066c71ece4d091ab"
+    }
+  ],
+  "discovered": 25,
+  "included": 25,
+  "excluded": [],
+  "errors": []
+}
